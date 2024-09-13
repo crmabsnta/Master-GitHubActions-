@@ -8,6 +8,5 @@ jobs:
     runs-on: ubuntu-latest
 
   steps:
-    - name: Say jay nepal
+    - name: jaynepal
       run: echo "Jay Nepal"
-      
