@@ -1,0 +1,13 @@
+name: jay nepal
+
+on:
+  workflow_dispatch:
+    
+jobs:
+  print-jay-Nepal:
+    runs-on: ubuntu-latest
+
+  steps:
+    - name: Say jay nepal
+      run: echo "Jay Nepal"
+      
